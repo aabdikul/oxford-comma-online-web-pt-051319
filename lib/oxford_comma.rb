@@ -1,5 +1,6 @@
 def oxford_comma(array)
-  if array.join
-    puts array
-  end
+  array.join
+end
+array.join(and)
+
 end
